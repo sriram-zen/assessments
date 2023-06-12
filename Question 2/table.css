@@ -1,0 +1,39 @@
+.bt{
+    border-radius: 15px;
+    background-color: gray;
+    padding: 5px 10px 5px 10px;
+    border: 2px solid #fff;
+}
+.head{
+    text-align: right;
+    margin-right: 15px;
+}
+.table{
+    text-align: left;
+    border-spacing: 30px;
+    margin-top: 120px;
+    margin-left: 280px;
+  }
+  
+.table1{
+    font-size: 14px;
+    text-align: justify;
+}
+.amount{
+    text-align:right;
+    width: 100px;
+}
+.bt-1{
+    border-radius: 15px;
+    background-color: green;
+    padding: 5px 17px 5px 17px;
+    border: 2px solid #fff;
+    color: #fff;
+}
+.bt-2{
+    border-radius: 15px;
+    background-color: red;
+    padding: 5px 17px 5px 17px;
+    border: 2px solid #fff;
+    color: #fff;
+}
